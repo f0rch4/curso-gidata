@@ -8,7 +8,8 @@ Durante esta fase del proyecto se define la estructura y almacenamiento de datos
 
 ## Tecnologías utilizadas
 Motor de base de datos: MySQL(XAMPP)
-
+Gestor de base de datos: phpMyAdmin   
+Lenguaje: SQL
 
 ## Instrucciones de ejecución
 1. Tener instalado cualquier servidor MySQL.
